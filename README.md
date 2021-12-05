@@ -1,2 +1,2 @@
-# tesis-data-science-marketing-digital
+# data-science-marketing-digital
 Tesis Data Science Marketing Digital
